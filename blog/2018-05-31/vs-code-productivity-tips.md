@@ -10,7 +10,7 @@ But in general, always consider this advice as it is really important:
 
 > Learn your IDE/Editor so that you are able to use it in the most efficient way
 
-# Why Is This Important
+## Why Is This Important
 
 Looking back at me as a programmer in the beginning of my professional software developer career I would definitely give myself the same advice mentioned above. In my first days as a developer I did most of my code interactions with the mouse and did not optimize my IDE or text editor.
 
@@ -18,9 +18,9 @@ Today I think I can navigate more efficient through my code and therefore have m
 
 <a href="https://imgflip.com/i/2beoio"><img src="https://i.imgflip.com/2beoio.jpg" title="made at imgflip.com"/></a>
 
-# My Productivity Tips
+## My Productivity Tips
 
-## Learn The Most Important Keyboard Shortcuts
+### Learn The Most Important Keyboard Shortcuts
 
 In my opinion, this is the most important step you can take as a developer. Take the time and learn the most often used shortcuts you need throughout the day.
 
@@ -49,7 +49,7 @@ Here some of my most used [OS X shortcuts](https://code.visualstudio.com/shortcu
 
 See [Basic Editing](https://code.visualstudio.com/docs/editor/codebasics) for further basic shortcuts and details.
 
-### Command Palette
+#### Command Palette
 
 With `CMD + Shift + P` you can open the _Command Palette_ which is a powerful tool in Visual Studio Code.
 
@@ -57,7 +57,7 @@ Just start typing any command you want to execute and you will find it (if it is
 
 ![Command Palette](https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/OpenCommandPalatte.gif)
 
-## Emmet
+### Emmet
 
 I must admit, I was blown away as I recognized that Emmet is supported by VS Code by default and how powerful it is. Emmet is a markup expansion tool that makes writing HTML much easier. It is easy to learn and has a simple syntax. Checkout the [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/) to learn more about the Emmet syntax.
 
@@ -65,7 +65,7 @@ And here you can see Emmet in action:
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/e1zhJjM4p0k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Use Workspaces
+### Use Workspaces
 
 One thing I started to use recently are [multi-root workspaces](https://code.visualstudio.com/docs/editor/multi-root-workspaces) in VS Code. They can be very helpful when you are working on several related projects at one time. For example, I have created a workspace for all of my private projects.
 
@@ -73,7 +73,7 @@ Using workspaces I do not have to handle multiple VS Code editor windows but alw
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/xYyPAUukFfg?start=30" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Use Plugins
+### Use Plugins
 
 Subsequent are some of my most used VS Code plugins:
 
@@ -92,13 +92,13 @@ Subsequent are some of my most used VS Code plugins:
 
 What I did not mention here are all the framework specific plugins. So of course, I recommend to install available plugins for your framework/technology/programming language you are using. They can also save you a ton of time.
 
-# Conclusion
+## Conclusion
 
 These are just some productivity tips which I can give you. Of course, VS Code provides many more features which can assist you in all kind of matter (see links below). For example, VS Code releases each month a major update with many new features and improvements. Read the release notes of these releases as they often contain new features which further can increase your productivity.
 
 And please take the time to learn your IDE/editor (if you haven't done it yet). This will definitely make you a better programmer.
 
-## Links
+### Links
 
 * [VS Code Documentation](https://code.visualstudio.com/docs/)
 * [VS Code Updates](https://code.visualstudio.com/updates/)

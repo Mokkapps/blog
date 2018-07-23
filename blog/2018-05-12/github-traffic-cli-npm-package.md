@@ -14,11 +14,11 @@ As a result I can check the traffic on all of my repositories with one CLI comma
 
 !["github-traffic-cli" Screenshot](img/github-traffic-cli.png#c)
 
-# Develop & publish npm package
+## Develop & publish npm package
 
 The process is very easy and documented in the [npm docs](https://docs.npmjs.com/getting-started/publishing-npm-packages).
 
-# Used npm packages
+## Used npm packages
 
 * [chalk](https://www.npmjs.com/package/chalk): Terminal string styling done right
 * [clui](https://www.npmjs.com/package/clui): Node.js toolkit for quickly building nice looking command line interfaces
@@ -26,7 +26,7 @@ The process is very easy and documented in the [npm docs](https://docs.npmjs.com
 * [figlet](https://www.npmjs.com/package/figlet): Terminal ASCII art from text
 * [inquirer](https://www.npmjs.com/package/inquirer): A collection of common interactive command line user interfaces.
 
-# Links
+## Links
 
 * [github-traffic-cli](https://www.npmjs.com/package/github-traffic-cli)
 * [Source Code](https://github.com/Mokkapps/github-traffic-cli)

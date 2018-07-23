@@ -6,9 +6,9 @@ category: "Development"
 
 End of last year I started working on my [private portfolio website](https://www.mokkapps.de) and started to research how to easily build and deploy such static websites.
 
-# The Tools
+## The Tools
 
-## Hugo
+### Hugo
 
 I discovered [Hugo](https://gohugo.io/) which is a very popular open-source static site generator. It is amazingly fast, very flexible and it makes fun to build websites with this generator.
 
@@ -22,7 +22,7 @@ The basic workflow looks this way:
 * If you are done you generate the static website content running `hugo`
 * Publish the generated website content (see next chapter)
 
-## Netlify
+### Netlify
 
 [Netlify](https://www.netlify.com/) provides a platform to automate code to create high-performant sites and web-apps. Basically you just have to push your code and Netlify takes care of the rest.
 
@@ -32,7 +32,7 @@ For more details check the [official "Getting Started" guide](https://www.netlif
 
 Netlify provides a free subscription model which I am currently using. Additionally there are many additional features which you have to pay. Check [the official Pricing page](https://www.netlify.com/docs/#getting-started) for more details.
 
-# My Setup
+## My Setup
 
 I started using a [simple static website](https://github.com/Mokkapps/mokkapps-website) which I hosted manually on a web-server without using a service like Netlify. The custom domain I used is `www.mokkapps.de`.
 
@@ -52,11 +52,11 @@ Netlify provides [Redirects](https://www.netlify.com/docs/redirects/) for such c
 
 Now all I have to do this is write my blog posts or make any other changes on my websites and push them to my Git provider. Netlify then automatically builds and deploy the pages.
 
-# Conclusion
+## Conclusion
 
 It makes really fun to build and deploy websites using services like Hugo and Netlify. I can highly recommend to take a look at them, maybe you can need them for your current or future projects.
 
-# Links
+## Links
 
 * [Source Code Website](https://github.com/Mokkapps/mokkapps-website)
 * [Source Code Blog Website](https://github.com/Mokkapps/mokkapps-blog)

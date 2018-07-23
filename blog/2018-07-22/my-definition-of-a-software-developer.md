@@ -24,7 +24,7 @@ Lets first summarize my distinguishing marks of a senior software developer:
 
 Now let's dive deeper into these topics.
 
-# Have passion for what you are doing
+## Have passion for what you are doing
 
 ![Passion Meme](https://josefhavelka.files.wordpress.com/2016/09/img_8744.png)
 
@@ -34,13 +34,13 @@ Of course, you should also learn other stuff outside your specialty. Your goal s
 
 In this blog post I will mainly focus on web development tech stacks as I have the most experience working with it and have a personal opinion about them.
 
-# Be a "problem solver"
+## Be a "problem solver"
 
 ![Problem Solving Meme](https://memegenerator.net/img/instances/31583560/you-have-99-problems-you-must-solve-each-one.jpg)
 
 You should love to solve challenging problems in an endless amount of time. You should have the power, ambition, skills and passion to solve any possible problem that will occur during your career.
 
-# Learn the fundamental basics of your programming language and frameworks
+## Learn the fundamental basics of your programming language and frameworks
 
 ![Never Stop Learning](http://www.mathelme.com/assets/Never-Stop-Learning_07.png)
 
@@ -50,29 +50,29 @@ For example, many people use the Angular CLI but are not familiar with all the s
 
 Basically you can follow these basic steps to learn the fundamentals:
 
-## Read some of the fundamental books about software programming
+### Read some of the fundamental books about software programming
 
 I would suggest to read some classic books about software development like [Clean Code: A Handbook of Agile Software Craftsmanship](https://lesen.amazon.de/kp/embed?asin=B001GSTOAM&preview=newtablinkCode=kperef_=cm_sw_r_kb_dp_VKevBbTK4P88Q) or [The Pragmatic Programer](https://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp020161622X). These books will provide you the basic patterns, guidelines and best practices to write good software.
 
-## Deep dive into your programming language
+### Deep dive into your programming language
 
 In web development, JavaScript is the language you should master. In the end of the day, your browser will run JavaScript code (even if it was written using frameworks like Angular with a programming language like TypeScript) and you need to be able to understand this code that is executed. This is also important if you need to analyze how a certain functionality is implemented in your framework, so you should be able to read low-level JavaScript source code.
 
 For JavaScript I would recommend you to read [JavaScript: The Good Parts](https://lesen.amazon.de/kp/embedasin=B0026OR2ZY&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_0RevBbP68KXYS).
 
-## Master your framework
+### Master your framework
 
 Same as for the programming language: Deep dive into the advanced mechanics used in your framework. For example, for Angular I can recommend the blog [Angular In Depth](https://blog.angularindepth.com/).
 
-## Learn your IDE / editor / command line
+### Learn your IDE / editor / command line
 
 Be as efficient as possible by using keyboard shortcuts, plugins and commands for your IDE, text editor and command line. If you are using Visual Code, checkout my article [How I Increased My Productivity With Visual Studio Code](https://dev.to/mokkapps/how-i-increased-my-productivity-with-visual-studio-code-gfo).
 
-## Learn version control
+### Learn version control
 
 I mainly worked with Git and can recommend you the free online ebook [Pro git](http://git-scm.com/book).
 
-# Be a mentor and have a mentor
+## Be a mentor and have a mentor
 
 ![Mentor Meme](http://m.memegen.com/p907yj.jpg)
 
@@ -89,7 +89,7 @@ How you can mentor others:
 3. Show the path of success which can be achieved as a senior developer
 4. Spend enough time and offer help when it is needed
 
-# Keep yourself up-to-date
+## Keep yourself up-to-date
 
 My suggestion is to use these channels to keep yourself up-to-date:
 
@@ -101,7 +101,7 @@ My suggestion is to use these channels to keep yourself up-to-date:
 * Meetups
 * (Online) Courses
 
-# Leave your comfort zone
+## Leave your comfort zone
 
 ![Comfort Zone](http://www.paladinstaff.com/blog/wp-content/uploads/2016/03/_d_improd_/where-magic-happens_f_improf_700x504.jpg)
 
@@ -111,13 +111,13 @@ Many developers try to avoid leaving their comfort zone and a "senior" developer
 * You don't like writing backend code and are only interested in frontend? --> Go ahead and learn backend technologies. You will benefit, if you understand the "other" side.
 * You avoid touching your CI/CD pipeline as you do not understand it and some other developers are more experienced with it? --> Take your time and learn the basics so that you can help yourself and you are not dependent of other developers.
 
-# Fight for your opinion
+## Fight for your opinion
 
 In my opinion, a "senior" developer should have a clear opinion and be able to fight for it in front of clients or other developers. For me it is not satisfying if I "dictate" technical decisions to my team, everyone accepts it without saying their meanings and start implementing it.
 
 For both sides it is more interesting, if their is a vivid discussion about the technical proposal. It can help the architect to get new impressions and the team can actively have an impact on decision.
 
-# Be social
+## Be social
 
 Do not hide yourself behind your monitors. Go out there and talk to other developers and you will profit from it. Additionally, use the social platforms mentioned above to get in contact with other developers.
 
@@ -128,11 +128,11 @@ I would also recommend to build up your personal brand and let others be able to
 * Start a blog where you start writing technical articles
 * Try to hold talks at conferences
 
-# Focus on soft skills as well
+## Focus on soft skills as well
 
 Writing good code is important but it is also very important to be able to describe technical stuff to "non-techies" like clients. You should be able to draw architectures in an understandable way or describe it in words. Additionally, you should be able to have a working time management where you can prioritize tasks and work on them in the most efficient way.
 
-# Conclusion
+## Conclusion
 
 As you can see the journey of becoming a senior software developer is not very easy and cannot be achieved in a short amount of time. This is the point where years of experience are important but you have to spend your time in these years by focussing on the above mentioned aspects. If you only have many years of work experience but did not grow yourself as a developer you cannot be a "senior" in my opinion.
 

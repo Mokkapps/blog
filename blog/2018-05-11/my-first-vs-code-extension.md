@@ -8,7 +8,7 @@ I am really a big fan of [Visual Code](https://code.visualstudio.com) and use it
 
 As I started using Visual Code I found every extension I was looking for. But last week I stumbled upon a feature where I could not find an extension for. So I decided to write my first VS code extension and let you know about my experiences during the development.
 
-# The problem I wanted to solve
+### The problem I wanted to solve
 
 Currently I am doing a lot of [Angular](https://angular.io/) development and therefore use [Jasmine](https://jasmine.github.io/) for unit tests. My first IDE which I used for web development was [WebStorm](https://www.jetbrains.com/webstorm/) which is based on [IntelliJ IDEA](https://www.jetbrains.com/idea/). In WebStorm I often used and liked the plugin [ddescriber](https://github.com/andresdominguez/ddescriber) for Jasmine tests:
 
@@ -22,14 +22,14 @@ This is useful in large unit tests which includes many `describe()` or `it()` bl
 
 As I could not find a VS code extension which solves this problem, I decided to write my first own VS code extension.
 
-# What the extension should handle
+## What the extension should handle
 
 The first version of the extension should be able to:
 
 * List all `describe()` or `it()` blocks as dropdown in an opened file in the editor
 * If a block is selected, move the cursor to this block
 
-## How to start?
+### How to start?
 
 Big applause to the VS code team for the amazing [documentation](https://code.visualstudio.com/docs/extensions/overview) on how to build your own VS code extension.
 
@@ -59,17 +59,17 @@ The final output for a Jasmine test file looks like this:
 
 ![VS Code Jasmine Test Selector Screenshot](/img/jasmine-test-selector.png#c)
 
-## Publishing the extension
+### Publishing the extension
 
 Another very nice experience was the very easy publishing process for VS code extensions. Basically I had just to follow the [official documentation](https://code.visualstudio.com/docs/extensions/publish-extension) which requires an [Visual Studio Team Services](https://docs.microsoft.com/vsts/accounts/create-account-msa-or-work-student) account.
 
 The published extension is available in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Mokkapps.jasmine-test-selector#overview).
 
-# Conclusion
+## Conclusion
 
 In summary it made a lot of fun to develop a VS code experience. The documentation and the provided examples are very good and I am very happy to have added a functionality to my favorite code editor which I have been missing.
 
-# Links
+## Links
 
 * [Download the extension from the marketplace](https://marketplace.visualstudio.com/items?itemName=Mokkapps.jasmine-test-selector#overview)
 * [Source code on GitHub](https://github.com/Mokkapps/jasmine-test-selector)
