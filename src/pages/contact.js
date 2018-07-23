@@ -53,14 +53,7 @@ const Contact = () => (
       </Header>
       <Content>
         <h1>Contact</h1>
-        <form
-          name="contact-form"
-          method="post"
-          data-netlify="true"
-          data-netlify-honeypot="bot-field"
-          netlify
-          action="/success"
-        >
+        <form name="contact-form" method="post" data-netlify="true" data-netlify-honeypot="bot-field" netlify>
           <p>
             <label htmlFor="name">Name</label>
             <input name="name" type="text" required />
