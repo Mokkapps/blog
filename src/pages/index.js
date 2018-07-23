@@ -67,7 +67,7 @@ const IndexPage = props => {
           <WebsiteLink href="https://www.mokkapps.de">
             <Button big>
               <MdHome/>
-              Mokkapps website
+              Website
             </Button>
           </WebsiteLink>
           <Link to="/contact">
