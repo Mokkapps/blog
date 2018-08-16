@@ -16,6 +16,11 @@ module.exports = {
   themeColor: '#3498DB',
   backgroundColor: '#2b2e3c',
 
+  // Start page intro text
+  portfolioWebsiteUrl: 'https://www.mokkapps.de',
+  introShort: 'My name is Michael Hoffmann and I publish my private software projects under the pseudonym Mokkapps.',
+  introDescription: 'Mobile, game & frontend developer. Blogger. Videogame enthusiast. Beekeeper.',
+
   // Settings for typography.js
   headerFontFamily: 'Bitter',
   bodyFontFamily: 'Open Sans',

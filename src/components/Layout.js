@@ -1,7 +1,7 @@
 /* eslint no-unused-expressions:0 */
 
 import React from 'react';
-import { StaticQuery } from 'gatsby';
+import { graphql, StaticQuery } from 'gatsby';
 import styled, { ThemeProvider, injectGlobal } from 'styled-components';
 import SEO from '../components/SEO';
 import theme from '../../config/Theme';
@@ -66,7 +66,7 @@ const Footer = styled.footer`
 
 const WebsiteLink = styled.a`
   text-align: center;
-  color: ${theme.white};
+  color: lightgray;
 `;
 
 const Layout = props => {
@@ -88,8 +88,7 @@ const Layout = props => {
             <SEO />
             {children}
             <Footer>
-              &copy; 2018 by Mokkapps. All rights reserved. <br />
-              <WebsiteLink href="https://www.mokkapps.de">Mokkapps Website</WebsiteLink> <br />
+              &copy; 2018 by <WebsiteLink href="https://www.mokkapps.de">Mokkapps</WebsiteLink>. All rights reserved.<br />
             </Footer>;
           </React.Fragment>
         </ThemeProvider>

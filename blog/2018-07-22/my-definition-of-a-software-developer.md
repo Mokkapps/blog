@@ -13,14 +13,14 @@ Nowadays, after I have worked with many other developers, I have a clear opinion
 Lets first summarize my distinguishing marks of a senior software developer:
 
 1. Have passion for what you are doing
-2. Be a "problem solver"
-3. Learn the fundamental basics of your programming language and frameworks
-4. Be a mentor and have a mentor
-5. Keep yourself up-to-date
-6. Leave your comfort zone
-7. Fight for your opinion
-8. Be social (YouTube, Blog, Twitter, Conferences, GitHub)
-9. Focus on soft skills as well
+1. Be a "problem solver"
+1. Learn the fundamental basics of your programming language and frameworks
+1. Be a mentor and have a mentor
+1. Keep yourself up-to-date
+1. Leave your comfort zone
+1. Fight for your opinion
+1. Be social
+1. Focus on soft skills as well
 
 Now let's dive deeper into these topics.
 
@@ -50,25 +50,25 @@ For example, many people use the Angular CLI but are not familiar with all the s
 
 Basically you can follow these basic steps to learn the fundamentals:
 
-### Read some of the fundamental books about software programming
+#### Read some of the fundamental books about software programming
 
-I would suggest to read some classic books about software development like [Clean Code: A Handbook of Agile Software Craftsmanship](https://lesen.amazon.de/kp/embed?asin=B001GSTOAM&preview=newtablinkCode=kperef_=cm_sw_r_kb_dp_VKevBbTK4P88Q) or [The Pragmatic Programer](https://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp020161622X). These books will provide you the basic patterns, guidelines and best practices to write good software.
+I would suggest to read some classic books about software development like [Clean Code: A Handbook of Agile Software Craftsmanship](https://lesen.amazon.de/kp/embed?asin=B001GSTOAM&preview=newtablinkCode=kperef_=cm_sw_r_kb_dp_VKevBbTK4P88Q) or [The Pragmatic Programer](https://lesen.amazon.de/kp/embed?asin=B003GCTQAE&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_ZRxwBb86F48F4). These books will provide you the basic patterns, guidelines and best practices to write good software.
 
-### Deep dive into your programming language
+#### Deep dive into your programming language
 
-In web development, JavaScript is the language you should master. In the end of the day, your browser will run JavaScript code (even if it was written using frameworks like Angular with a programming language like TypeScript) and you need to be able to understand this code that is executed. This is also important if you need to analyze how a certain functionality is implemented in your framework, so you should be able to read low-level JavaScript source code.
+In web development, JavaScript is the language you should master. At the end of the day, your browser will run JavaScript code (even if it was written using frameworks like Angular with a programming language like TypeScript) and you need to be able to understand this code that is executed. This is also important if you need to analyze how a certain functionality is implemented in your framework, so you should be able to read low-level JavaScript source code.
 
 For JavaScript I would recommend you to read [JavaScript: The Good Parts](https://lesen.amazon.de/kp/embedasin=B0026OR2ZY&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_0RevBbP68KXYS).
 
-### Master your framework
+#### Master your framework
 
 Same as for the programming language: Deep dive into the advanced mechanics used in your framework. For example, for Angular I can recommend the blog [Angular In Depth](https://blog.angularindepth.com/).
 
-### Learn your IDE / editor / command line
+#### Learn your IDE / editor / command line
 
 Be as efficient as possible by using keyboard shortcuts, plugins and commands for your IDE, text editor and command line. If you are using Visual Code, checkout my article [How I Increased My Productivity With Visual Studio Code](https://dev.to/mokkapps/how-i-increased-my-productivity-with-visual-studio-code-gfo).
 
-### Learn version control
+#### Learn version control
 
 I mainly worked with Git and can recommend you the free online ebook [Pro git](http://git-scm.com/book).
 
@@ -115,7 +115,7 @@ Many developers try to avoid leaving their comfort zone and a "senior" developer
 
 In my opinion, a "senior" developer should have a clear opinion and be able to fight for it in front of clients or other developers. For me it is not satisfying if I "dictate" technical decisions to my team, everyone accepts it without saying their meanings and start implementing it.
 
-For both sides it is more interesting, if their is a vivid discussion about the technical proposal. It can help the architect to get new impressions and the team can actively have an impact on decision.
+For both sides it is more interesting, if there is a vivid discussion about the technical proposal. It can help the architect to get new impressions and the team can actively have an impact on decisions.
 
 ## Be social
 
@@ -134,6 +134,6 @@ Writing good code is important but it is also very important to be able to descr
 
 ## Conclusion
 
-As you can see the journey of becoming a senior software developer is not very easy and cannot be achieved in a short amount of time. This is the point where years of experience are important but you have to spend your time in these years by focussing on the above mentioned aspects. If you only have many years of work experience but did not grow yourself as a developer you cannot be a "senior" in my opinion.
+As you can see the journey of becoming a senior software developer is not very easy and cannot be achieved in a short amount of time. This is the point where years of experience are important but you have to spend your time in these years by focusing on the above mentioned aspects. If you only have many years of work experience but did not grow yourself as a developer you cannot be a "senior" in my opinion.
 
 Of course, this is only my humble opinion so let me know what's your definition of a "senior" developer and what experiences you have made working with them?

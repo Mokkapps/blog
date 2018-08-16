@@ -1,15 +1,14 @@
 import React from 'react';
-import { Link } from 'gatsby';
+import { graphql } from 'gatsby';
 import styled from 'styled-components';
-import MdHome from 'react-icons/lib/md/home';
-import MdEmail from 'react-icons/lib/md/email';
 
 import Layout from '../components/Layout';
 import Article from '../components/Article';
 import Wrapper from '../components/Wrapper';
-import Button from '../components/Button';
 import SectionTitle from '../components/SectionTitle';
+import ButtonGroup from '../components/ButtonGroup';
 
+import config from '../../config/SiteConfig';
 import { media } from '../utils/media';
 
 const Content = styled.div`
@@ -49,10 +48,6 @@ const Hero = styled.div`
   }
 `;
 
-const WebsiteLink = styled.a`
-  margin-right: 1rem;
-`;
-
 const IndexPage = props => {
   const postEdges = props.data.allMarkdownRemark.edges;
 
@@ -61,24 +56,13 @@ const IndexPage = props => {
       <Wrapper>
         <Hero>
           <h1>Hi.</h1>
-          <p>I&apos;m Michael Hoffmann and I publish my private software projects under the pseudonym Mokkapps.</p>
+          <p>{config.introShort}</p>
           <br />
-          <p>Mobile, game & frontend developer. Blogger. Videogame enthusiast. Beekeeper.</p>
-          <WebsiteLink href="https://www.mokkapps.de">
-            <Button big>
-              <MdHome/>
-              Website
-            </Button>
-          </WebsiteLink>
-          <Link to="/contact">
-            <Button big>
-              <MdEmail/>
-              Contact
-            </Button>
-          </Link>
+          <p>{config.introDescription}</p>
+          <ButtonGroup />
         </Hero>
         <Content>
-          <SectionTitle>Latest stories</SectionTitle>
+          <SectionTitle>Latest articles</SectionTitle>
           {postEdges.map(post => (
             <Article
               title={post.node.frontmatter.title}
