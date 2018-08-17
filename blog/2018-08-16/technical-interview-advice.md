@@ -99,7 +99,7 @@ It has a negative connotation if the interviewee only talks about decisions of o
 
 ## Learn to hand write code in front of people
 
-This is a really essential skill that you should train. Take some coding challenges and practice them on a whiteboard or flip chart. You should feel comfortable in it as this can happy in any technical interview.
+This is a really essential skill that you should train. Take some coding challenges and practice them on a whiteboard or flip chart. You should feel comfortable in it as this can happen in any technical interview.
 
 Most of the time you will have to solve any kind of algorithmic problem. I would suggest to follow these steps in such a situation:
 
