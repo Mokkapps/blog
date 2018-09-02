@@ -1,3 +1,6 @@
+⚠️ Project archived because the blog is now integrated in my [portfolio website](https://www.mokkapps.de/website)
+
+
 # Mokkapps Blog
 Code for my blog [www.mokkapps.de/blog](https://www.mokkapps.de/blog)
 
